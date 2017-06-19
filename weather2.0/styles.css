@@ -1,0 +1,70 @@
+body{
+	background-image: url("http://blog.print-print.co.uk/wp-content/uploads/2015/08/splitshire.com_.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-bottom: 20%;
+	
+	/*margin: 10px;*/
+}
+.container{
+	margin-left:  150px;
+	float: left;
+	
+	
+}
+@media (min-width: 768px) {
+.my-custom-container{
+    width:600px;
+}}
+
+
+
+.container .jumbotron{
+	margin-left: 0;
+	height: 500px;
+	background-image: url("https://ak6.picdn.net/shutterstock/videos/11359004/thumb/1.jpg?i10c=img.resize(height:160)");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	float: right;
+
+	
+	/*max-width:400px;;*/
+	/*background-image: url("http://blog.print-print.co.uk/wp-content/uploads/2015/08/splitshire.com_.jpg");*/
+}
+
+.font{
+	color: white;
+}
+
+#center{
+	text-align: center;
+	margin-top: 10px;
+
+}
+#text{
+	text-align: center;
+}
+#table{
+	width: 300px;
+	text-align: left;
+	color: white;
+	font-size: 17px;
+}
+
+ #elements{
+	float: left;
+	margin-top: 10px;
+	margin-left: 50px;
+}
+
+#gbutton{
+	margin-left: 100px;
+	float: right;
+}
+.table tbody tr:hover td, .table tbody tr:hover th {
+    background-color: black;
+}
+#gtext{
+	text-align: center;
+}
